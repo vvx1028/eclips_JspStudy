@@ -15,5 +15,7 @@
   out.println("<h1>"+str+"</h1>");//형식) out.println(출력할 문장);
   
  %>
+ <br>
+ str값 출력 : <%=str %>
 </body>
 </html>
